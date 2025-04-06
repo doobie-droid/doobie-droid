@@ -30,5 +30,5 @@
 [medium-shield]: https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
 [medium-url]: https://medium.com/@doobie-droid
 [portfolio-shield]: https://img.shields.io/badge/Portfolio-Live-red?style=for-the-badge&logo=google-chrome&logoColor=red
-[portfolio-url]: https://doobie-droid.github.io/portfolio
+[portfolio-url]: https://doobiedroid.com
 [resume-url]: https://drive.google.com/file/d/1Fa56RCPpnC7wFQSe5Rr5m6T9p4dMa7yv/view?usp=drive_link
