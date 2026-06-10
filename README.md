@@ -9,7 +9,7 @@
 - 💻 I am a full-stack developer
 - 📃 Check out my [Resume][resume-url]
 - 👾 Proficient in Php, Golang and Javascript
-- 🧑‍🏭 Former BackendDev at [JackWestin](https://jackwestin.com)
+- 🧑‍🏭 Backend Engineer at **[Gloopro](https://gloo.pro/)**, building enterprise Procurement-as-a-Service (PaaS) and eProcurement solutions for large enterprises across Africa
 - 👨‍🎓 Mech Engr. Grad at [Covenant University](https://www.covenantuniversity.edu.ng/), Nigeria NGA
 - 📫 Reach out: [lesliedouglas23@gmail.com](mailto:lesliedouglas23@gmail.com)
 - Follow me on [Medium][medium-url], I write articles demystifying tech
