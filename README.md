@@ -31,4 +31,4 @@
 [medium-url]: https://medium.com/@doobie-droid
 [portfolio-shield]: https://img.shields.io/badge/Portfolio-Live-red?style=for-the-badge&logo=google-chrome&logoColor=red
 [portfolio-url]: https://doobiedroid.com
-[resume-url]: https://drive.google.com/file/d/1Fa56RCPpnC7wFQSe5Rr5m6T9p4dMa7yv/view?usp=drive_link](https://www.doobiedroid.com/resume_light.pdf
+[resume-url]: https://www.doobiedroid.com/resume_light.pdf
