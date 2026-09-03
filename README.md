@@ -4,7 +4,7 @@
 [![GitHub][github-shield]][github-url]
 
 - 📃 Check out my [Resume][resume-url]
-- 🧑‍🏭 Backend Engineer at **[Gloopro](https://gloo.pro/)**(building enterprise Procurement-as-a-Service (PaaS) and eProcurement solutions for large enterprises across Africa)
+- 🧑‍🏭 Backend Engineer at **[Gloopro](https://gloo.pro/)** (building enterprise Procurement-as-a-Service (PaaS) and eProcurement solutions for large enterprises across Africa)
 - Follow me on [Medium][medium-url], I write articles demystifying tech
 
 ### 🚀 Projects I've worked on
