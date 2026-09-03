@@ -4,7 +4,7 @@
 [![GitHub][github-shield]][github-url]
 
 - 📃 Check out my [Resume][resume-url]
-- 🧑‍🏭 Backend Engineer at **[Gloopro](https://gloo.pro/)**, building enterprise Procurement-as-a-Service (PaaS) and eProcurement solutions for large enterprises across Africa
+- 🧑‍🏭 Backend Engineer at **[Gloopro](https://gloo.pro/)**(building enterprise Procurement-as-a-Service (PaaS) and eProcurement solutions for large enterprises across Africa)
 - Follow me on [Medium][medium-url], I write articles demystifying tech
 
 ### 🚀 Projects I've worked on
@@ -21,3 +21,5 @@
 [github-shield]: https://img.shields.io/github/followers/doobie-droid?label=follow&style=social
 [github-url]: https://github.com/doobie-droid
 [resume-url]: https://www.doobiedroid.com/resume_light.pdf
+[medium-shield]: https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
+[medium-url]: https://medium.com/@doobie-droid
