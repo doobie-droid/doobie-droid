@@ -14,8 +14,6 @@
 - 📫 Reach out: [lesliedouglas23@gmail.com](mailto:lesliedouglas23@gmail.com)
 - Follow me on [Medium][medium-url], I write articles demystifying tech
 
-[![](https://img.shields.io/badge/Made%20With%20❤️%20By-DoobieDroid-red)](https://github.com/doobie-droid)
-
 ### 🚀 Some projects I've worked on
 
 🏝️ **[LeisureTrove](https://leisuretrove.com)** — A leisure-discovery platform connecting people to the best events and experiences around them. Built with a **Nuxt** frontend, **Laravel** backend, real-time **WebSockets in Go**, and lightning-fast search powered by **Typesense**. Crawled and scraped **100K+ events** into the platform. *Led a 3-person team.*
@@ -23,6 +21,8 @@
 🦏 **[TryFaru](https://tryfaru.com)** — A next-gen product reimagining how modern users interact with the market — sleek UX and SEO-first from the ground up. **Laravel** backend, **Nuxt** frontend, and real-time features driven by **Ably** WebSockets. *Designed, built, and shipped end-to-end, solo.*
 
 🕸️ **[Job Scraper](https://github.com/doobie-droid/job_scraper)** — A CLI-powered aggregator that pulls live job listings from popular platforms like LinkedIn, WeWorkRemotely, and HR tools like Greenhouse — using a smart mix of web scraping and REST APIs to bring the whole job market to your terminal.
+
+[![](https://img.shields.io/badge/Made%20With%20❤️%20By-DoobieDroid-red)](https://github.com/doobie-droid)
 
 [github-views]: https://views.whatilearened.today/views/github/doobie-droid/doobie-droid.svg
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
